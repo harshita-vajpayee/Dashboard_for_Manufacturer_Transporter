@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Butterfly Kids
+- Font Author: Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name "Butterfly Kids"
+- Font Source: http://fonts.gstatic.com/s/butterflykids/v21/ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
