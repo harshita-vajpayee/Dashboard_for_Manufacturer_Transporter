@@ -13,7 +13,6 @@ const ChatOrders = require("./models/chatOrderSchema");
 
 const user = new User
 const dburi = process.env.SOURCE
-
 mongoose.connect(dburi)
     .then(() => {
         console.log("db connected")
